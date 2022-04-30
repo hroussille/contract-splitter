@@ -1,0 +1,29 @@
+{
+  "name": "contract-splitter",
+  "version": "1.0.0",
+  "description": "Split an EVM smart contract deployement bytecode into its sub components",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hroussille/contract-splitter.git"
+  },
+  "keywords": [
+    "EVM",
+    "Smart-contract",
+    "Bytecode",
+    "Split"
+  ],
+  "author": "Hector Roussille",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hroussille/contract-splitter/issues"
+  },
+  "homepage": "https://github.com/hroussille/contract-splitter#readme",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^9.2.2"
+  }
+}
